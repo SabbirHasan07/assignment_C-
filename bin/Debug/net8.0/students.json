@@ -1,0 +1,16 @@
+{
+  "FirstName": "sabbir",
+  "MiddleName": "hasan",
+  "LastName": "imran",
+  "StudentID": "182",
+  "JoiningBatch": {
+    "SemesterCode": "182",
+    "Year": "2018"
+  },
+  "Department": 0,
+  "Degree": 0,
+  "SemestersAttended": null,
+  "Courses": null,
+  "FullName": "sabbir hasan imran",
+  "NullableProperty": null
+}
